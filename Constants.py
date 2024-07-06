@@ -1,2 +1,2 @@
-API_KEY = '5020515934:AAGQDkFYFnb9Z_POcSc7OxrcC5Jfo_Jlg74'
-API_KEY_COIN = '0e1ae29b-c5fc-4254-9872-13db2d9dc517'
+API_KEY = 'No API Keyes here'
+API_KEY_COIN = 'No Api Key Coins here'
